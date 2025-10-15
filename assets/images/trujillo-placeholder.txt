@@ -1,0 +1,26 @@
+Por favor, coloca la imagen "trujillo1.jpg" en esta carpeta.
+
+Esta imagen debe mostrar:
+- Plaza de Armas de Trujillo
+- Monumento a la Libertad
+- Catedral de Trujillo
+- Casas coloniales coloridas
+
+La imagen será usada como fondo en la pantalla de login de ProtecTrux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
